@@ -1,5 +1,5 @@
 # Big-Data-Computing
-Different Homeworks made for the Big Data Computing course
+Different programs made to process large datasets
 
 Each of the programs has tackled a different task, using as framework Apache Spark:
 - The first one analyzes a file containing several points belongin to a set A or B. Through different operations two different Clustering Objective Functions are compared.
